@@ -11,3 +11,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.flex-container {
+    display: flex;
+    background-color: black;
+    width: 600px;
+    height: 130px;
+    margin-top: 15px;
+}
+.watch {
+    display: flex;
+    margin: 15px;
+    background-color: tomato;
+    width: 75px;
+    height: 100px;
+    border-radius: 20%;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1 {
+    font-size: 60px;
+}
